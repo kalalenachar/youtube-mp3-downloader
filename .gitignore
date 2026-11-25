@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# SonicMP3 runtime artifacts & downloads
+downloads/
+.temp/
+*.zip
+*.mp3
+*.webm
+*.m4a
+*.part
+*.ytdl
+
+# Logs & temporary files
+*.log
+cookies.txt
+*.cookies
+
+# Environment configs & secrets
+.env
+.env.local
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

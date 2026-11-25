@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=SonicMP3 Studio
+Comment=Pro YouTube to MP3 Downloader & Audio Vault
+Exec=/home/samsho/AG/youtube-mp3-downloader/start_gui.sh
+Path=/home/samsho/AG/youtube-mp3-downloader
+Icon=/home/samsho/AG/youtube-mp3-downloader/icon.png
+Terminal=false
+Categories=AudioVideo;Audio;
+Keywords=YouTube;MP3;Audio;Downloader;Music;
+StartupNotify=true
+
